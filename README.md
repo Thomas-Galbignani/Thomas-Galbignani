@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Thomas Galbignani. I'm an aspiring Full-Stack Web Developer based in Pavia, Italy. My main interest is in Front-End development, and as a technology enthusiast, I'm always eager to learn. Open to work and excited to join a team!</h2>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas-Galbignani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
