@@ -1,5 +1,8 @@
-<h2 align="left">Hi 👋! My name is Thomas Galbignani. I'm an aspiring Full-Stack Web Developer based in Pavia, Italy. My main interest is in Front-End development, and as a technology enthusiast, I'm always eager to learn. Open to work and excited to join a team!</h2>
+<h2 align="left">Hi there 👋! I'm Thomas Galbignani, an aspiring Full-Stack Web Developer based in Pavia, Italy.</h2>
 
+As a **technology enthusiast**, I'm always eager to learn, embrace new challenges, and expand my skill set.
+
+I am **open to work** and excited about the opportunity to join a **dynamic team**!
 
 
 <div align="center">
