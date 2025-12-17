@@ -44,9 +44,9 @@ I am **open to work** and excited about the opportunity to join a **dynamic team
 ## Find me around the web 🌍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-lino-galbignani)
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Thomas-Galbignani/Thomas-Galbignani/output/snake.svg" alt="Snake animation" />
-###
+
