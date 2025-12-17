@@ -43,8 +43,7 @@ I am **open to work** and excited about the opportunity to join a **dynamic team
 
 ## Find me around the web 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-lino-galbignani) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-lino-galbignani)
 ###
 
 <br clear="both">
