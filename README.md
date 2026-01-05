@@ -5,9 +5,6 @@ As a **technology enthusiast**, I'm always eager to learn, embrace new challenge
 I am **open to work** and excited about the opportunity to join a **dynamic team**!
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas-Galbignani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### Frontend 💻
 
